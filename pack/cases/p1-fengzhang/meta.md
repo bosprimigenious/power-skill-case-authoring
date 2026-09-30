@@ -1,0 +1,11 @@
+slot: p1-fengzhang
+scene: 变电运维班组学习监管通报，核对接线送电事件中已经写明的事实
+primary_gap: 结果质量
+capability: 待按页面下拉填写
+difficulty: 中
+author_role: 变电运维人员，依据附件做班组核对，不是该事件的调度员或现场操作人
+author_on_scene: 否
+source_kind: public_notice
+source_url: https://zfxxgk.nea.gov.cn/2024-07/29/c_1212386645.htm
+source_fetched: 2026-09-30
+status: SOURCE_VERIFIED_DRAFT

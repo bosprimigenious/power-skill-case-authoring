@@ -1,0 +1,11 @@
+slot: p2-js-202412
+scene: 从省监管办月报中摘录写明的电气保护动作，并核对停运次数是否自洽
+primary_gap: 信息组织
+capability: 待按页面下拉填写
+difficulty: 中
+author_role: 变电运维人员，按附件做月报摘录，不是发电厂当值人员
+author_on_scene: 否
+source_kind: public_notice
+source_url: https://jsb.nea.gov.cn/dtyw/jgdt/202502/t20250206_276190.html
+source_fetched: 2026-09-30
+status: SOURCE_VERIFIED_DRAFT
